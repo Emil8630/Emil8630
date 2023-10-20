@@ -29,6 +29,7 @@
     
     ![Nim](https://img.shields.io/badge/-Nim-yellow?logo=nim&logoColor=white&style=for-the-badge)
     ![Python](https://img.shields.io/badge/Python%20-yellow?style=for-the-badge&logo=python&logoColor=white)
+    ![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white)
 
 - **Front/Back-End Development**:
 
